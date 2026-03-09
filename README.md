@@ -1,4 +1,4 @@
-[![Taxonomy]](Metrics.png)
+![Taxonomy](Metrics.png)
 
 ## Metrics Analysis Notebook
 
