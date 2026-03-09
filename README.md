@@ -1,6 +1,4 @@
-<embed src="Metrics.pdf" width="600" height="500">
-
-[View the Taxonomy](Metrics.pdf)
+[View the Taxonomy](Metrics.png)
 
 ## Metrics Analysis Notebook
 
