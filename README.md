@@ -1,3 +1,5 @@
+[View the PDF](Metrics.pdf)
+
 ## Metrics Analysis Notebook
 
 This repository contains a single Jupyter notebook, `Analysis.ipynb`, used to explore and analyze a collection of evaluation metrics for question–answering / LLM responses. The analysis operates on an `evaluation_results.csv` file containing model responses, reference answers, contextual fields, and a wide range of automatic metrics (e.g. token-based, BLEU/METEOR, BERTScore, NLI-style scores, embedding-based metrics, retrieval metrics, and ROUGE).
