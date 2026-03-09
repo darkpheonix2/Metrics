@@ -1,4 +1,4 @@
-[!Project Logo](Metrics.png)
+[![Taxonomy]](Metrics.png)
 
 ## Metrics Analysis Notebook
 
