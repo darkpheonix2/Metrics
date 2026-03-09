@@ -1,5 +1,3 @@
-![Taxonomy](Metrics.png)
-
 ## Metrics Analysis Notebook
 
 This repository contains a single Jupyter notebook, `Analysis.ipynb`, used to explore and analyze a collection of evaluation metrics for question–answering / LLM responses. The analysis operates on an `evaluation_results.csv` file containing model responses, reference answers, contextual fields, and a wide range of automatic metrics (e.g. token-based, BLEU/METEOR, BERTScore, NLI-style scores, embedding-based metrics, retrieval metrics, and ROUGE).
@@ -14,6 +12,9 @@ This repository contains a single Jupyter notebook, `Analysis.ipynb`, used to ex
   - Retrieval / faithfulness metrics: `Faithfulness`, `Context_Precision`, `Context_Recall`, `Retrieval_Precision`, `Retrieval_Recall`, `Retrieval_F1`, `Retrieval_TP`, `Retrieval_FP`, `Retrieval_FN`, `Answer_Relevance`, `NLI_Precision`, `NLI_Recall`, `NLI_F1`, `GEval_Precision`, `GEval_Recall`, `GEval_F1`, `Is_Error`
 
 > Note: The notebook assumes that `evaluation_results.csv` is present in the same directory as `Analysis.ipynb`.
+
+![Taxonomy](Metrics.png)
+
 
 ### Environment & dependencies
 
